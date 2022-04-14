@@ -1,2 +1,20 @@
 {
+  "updater" : {
+    "version" : 1.0,
+    "versionName" : "v1"
+  },
+  "update" : {
+    "version" : {
+      "base" : 1,
+      "incremental" : 0,
+      "patch" : 0,
+      "name" : "v1.0.0",
+      "fullName" : "EduProject Android V1.0.0",
+      "codeName" : "launchpad"
+    },
+    "payload" : {
+      "url" : "https://mypayloadurl.update",
+      "signature" : "#init"
+    }
+  }
 }
