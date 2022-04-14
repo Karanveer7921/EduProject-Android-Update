@@ -15,6 +15,7 @@
     "payload" : {
       "url" : "https://mypayloadurl.update",
       "signature" : "#init"
-    }
+    },
+    "changeLog" : "No change log"
   }
 }
